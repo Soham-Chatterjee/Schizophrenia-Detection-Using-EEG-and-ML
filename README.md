@@ -17,4 +17,8 @@ CNN architecture used:
 Overall, this project offers a comprehensive analysis of different EEG signals for prediction of schizophrenia in subjects and demonstrates the use of logistic regression and deep neural
 network models in motor imagery classification tasks.
 
+Graphs for accuracy and loss:<br>
+![Fold vs Accuracy](https://github.com/Soham-Chatterjee/Schizophrenia-Detection-Using-EEG-and-ML/assets/75290254/6f302cfc-8fc7-4628-b51c-a491871e80b6)
+![Fold vs Loss](https://github.com/Soham-Chatterjee/Schizophrenia-Detection-Using-EEG-and-ML/assets/75290254/3ad95e12-daeb-44b8-9c89-4439993e478d)
+
 **Keywords**: EEG signal analysis, Schizophrenia, Machine Learning Classification, Logistic Regression, Convolutional Neural Networks
