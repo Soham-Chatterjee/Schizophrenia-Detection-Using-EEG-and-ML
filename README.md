@@ -7,6 +7,13 @@ The data from the subjects is segregated into **fixed length overlapping epochs 
 Different features such as the **average, standard deviation, peak to peak, variance, minimum, maximum etc.** have been extracted from the data and fed into the algorithm for achieving better performance of the model.
 We have used the Logistic Regression classification algorithm and a 1D Convolutional Neural Network algorithm comprising of **13 layers (11 hidden layers)** for this classification. It was observed that the Logistic Regression model achieves an accuracy of **66.03%** and the Deep Convolutional Neural Network is able to achieve an accuracy of **71.72%** on the validation data.
 
+Structure of the Logistic Regression Model:
+![Logistic Regression Architecture](https://github.com/Soham-Chatterjee/Schizophrenia-Detection-Using-EEG-and-ML/assets/75290254/61840991-e0d9-453d-a49c-4c64b904eb90)
+
+CNN architecture used:
+![CNN architecture](https://github.com/Soham-Chatterjee/Schizophrenia-Detection-Using-EEG-and-ML/assets/75290254/71c4bc8b-2e73-4a0c-9b9b-f6437552ead2)
+
+
 Overall, this project offers a comprehensive analysis of different EEG signals for prediction of schizophrenia in subjects and demonstrates the use of logistic regression and deep neural
 network models in motor imagery classification tasks.
 
